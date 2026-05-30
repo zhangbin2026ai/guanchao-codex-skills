@@ -48,6 +48,7 @@ Make the content feel like a story of competing players, not a lecture. Treat co
 
 4. **Find the Real Game**
    - Do not stop at “what happened.”
+   - Read `references/news-memory-integration.md` before expanding the story. Do not write one isolated news item to the end; connect the anchor news to adjacent news, older comparable cases, security logic, geopolitical pressure, financial repricing, and ordinary-user consequences.
    - Identify which human/industrial/social power is being moved.
    - Connect that power shift to geopolitics, finance, and the future path of the industry.
    - Ask: who controls the entrance, who collects tolls, who loses default power, who becomes dependent, who needs to follow, and what is the破局 path?
@@ -275,6 +276,7 @@ Use this exact order:
 ## References
 
 - Read `references/editorial-memory.md` before selecting topics or revising the skill. Treat it as persistent user-approved editorial direction.
+- Read `references/news-memory-integration.md` before expanding any topic beyond the opening. Use it to connect the anchor news with related news and extract the shared hidden rule.
 - Read `references/story-craft.md` before writing any script. If the first 60 seconds do not pass the story and retention audit, rewrite before continuing.
 - Read `references/topic-selection-logic.md` before selecting topics or when the user asks for candidate topics.
 - Read `references/deep-research.md` before writing topics involving smart glasses, XR, chips, robotics, cars, energy, hardware, supply chains, geopolitics, or finance.
