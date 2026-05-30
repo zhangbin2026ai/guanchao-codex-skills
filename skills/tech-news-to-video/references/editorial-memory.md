@@ -145,7 +145,7 @@ Translate every abstract layer into a human need:
 - wearable device = tool, weapon, leash, mirror, private secretary, checkpoint
 - first visual entrance = the first second of a person’s judgment
 
-### Product / Platform Narrative Rule
+### Apple Glasses Narrative Rule
 
 For any product/platform topic, the story should not be:
 
@@ -234,3 +234,41 @@ Before expanding any script, the first 60 seconds must prove:
 - the viewer wants to know the next answer
 - the narrator sounds like a thinking person
 - the topic has a hidden game beyond the surface news
+
+## 2026-05-30 Anti-Parallelism And Plain Speech Revision
+
+The user rejected mechanical parallelism strongly. This is now a hard editorial rule.
+
+### Core Correction
+
+Removing parallelism is not enough. The rewrite must not lose the original story tension.
+
+The first rewrite of the AI-news-platform topic improved the story by adding:
+
+- a strange premise: the news app is becoming another kind of thing
+- a familiar scene: a person opening news and being guided before forming judgment
+- a hidden transaction: the platform is not only chasing clicks, it is chasing the first explanation
+
+The later rewrite became worse because it avoided repeated structure but introduced stiff phrases like “组织效率优化.” That phrase is not ordinary speech. It sounds like a company memo and weakens the user's emotional entry point.
+
+### Required Judgment
+
+When comparing drafts, preserve what became more interesting and remove only what became mechanical.
+
+Do not treat “no parallelism” as a formatting rule. Treat it as a human-voice rule:
+
+- no three-sentence same-structure ladders
+- no obvious template rhythm
+- no repeated “你刚...” sequences
+- no replacing vivid speech with abstract management jargon
+- no technical or corporate phrase unless immediately translated into plain words
+
+Preferred direction:
+
+> Keep the hook and hidden-game logic from the stronger draft, then rewrite the weak repeated section into one living scene with a human reaction and a small twist.
+
+Quality check:
+
+- Would a normal viewer understand the phrase without pausing?
+- Does this sentence sound like a person talking, or a memo wearing a microphone?
+- Did the rewrite keep suspense, or did it only become grammatically cleaner?
