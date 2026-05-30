@@ -34,37 +34,43 @@ Make the content feel like a story of competing players, not a lecture. Treat co
    - Prefer topics with multi-site repetition, technology-industry importance, strong visual potential, power-migration depth, and video virality.
    - Keep links and dates for factual claims.
 
-2. **Verify the Deep Hypothesis**
+2. **Select by Second-Order Consequence**
+   - Read `references/topic-selection-logic.md` before choosing the final topic.
+   - Do not select a topic only because it is hot. Select it because it can expose a second-order game: industrial replacement, supply-chain tension, national-system competition, asset repricing, or old-power decay.
+   - Push every promising topic one layer deeper. Example: Apple glasses are not only a visual entrance story; they may also reveal whether Asian supply chains, Japan’s component position, Southeast Asia/India relocation, and China’s industrial升级 are being repriced.
+   - Prefer topics that can become a debate: “Is Japan declining or hiding upstream?”, “Can Southeast Asia replace China or only assemble for China’s component ecosystem?”, “Is America’s AI power bottleneck a weakness or a private-capital workaround?”
+
+3. **Verify the Deep Hypothesis**
    - Before writing, form 1-3 non-obvious hypotheses, then browse specifically to verify or falsify them.
    - For hardware, chips, smart glasses, robotics, cars, energy, and XR topics, research supply chain first: key suppliers, countries/regions, chokepoints, assembly, critical components, recent shifts, and which parts are controlled by China, Taiwan, Japan, South Korea, the US, Europe, India, Vietnam, or Mexico.
    - Do not turn a guess into a conclusion. If evidence is mixed, write the tension as the story. Example: do not say “Apple glasses are already Americanized” unless sources prove it. Say “Apple wants an American platform entrance, but the hardware body may still depend on Asian supply chains” when that is what evidence supports.
    - Look for the contradiction that ordinary commentary misses: platform ambition vs supply-chain dependence, consumer product vs sovereign data, hardware sales vs financial repricing, convenience vs control.
 
-3. **Find the Real Game**
+4. **Find the Real Game**
    - Do not stop at “what happened.”
    - Identify which human/industrial/social power is being moved.
    - Connect that power shift to geopolitics, finance, and the future path of the industry.
    - Ask: who controls the entrance, who collects tolls, who loses default power, who becomes dependent, who needs to follow, and what is the破局 path?
 
-4. **Build the Story Engine**
+5. **Build the Story Engine**
    - Personify major players without fabricating quotes or inner thoughts. Use “像是”, “更像”, “它怕的不是..., 而是...” to frame incentives.
    - Give every major actor a role: the old king, the challenger, the supplier holding the throat, the banker pricing the future, the regulator watching the gate, the user being pulled into the board.
    - Write in scenes: board opening, first move, counter-move, hidden supply line, money table, geopolitical table, trapped player,破局.
    - Use concrete objects before abstract concepts: factory, lens, chip, battery, map, camera, meeting room, store shelf, data center, contract, stock chart.
    - Avoid cold explanatory paragraphs. Every 2-4 paragraphs should contain conflict, reversal, a vivid image, or a question the audience wants answered.
 
-5. **Write the Video Package**
+6. **Write the Video Package**
    - Produce one main 15-minute oral script by default, about 4,500-6,000 Chinese characters.
    - Also output: three-platform titles, 3-second hook, storyboard, visual prompts, subtitle script, cover titles, comment prompt, and platform review.
    - Keep the main content platform-neutral. Platform adaptation belongs mainly in titles, cover wording, and release notes.
 
-6. **Make the Finished Video**
+7. **Make the Finished Video**
    - Prefer existing video tools/plugins in the environment, especially HyperFrames by HeyGen if available.
    - The finished video must include natural-sounding Chinese narration, complete bottom subtitles inside platform-safe margins, dynamic visual material, chapter rhythm, and transitions.
    - Avoid static PPT-like videos. Use relevant dynamic images/video-style scenes for the topic: for example, if discussing AITO/Wenjie cars, show car imagery, automotive production, roads, dashboards, factories, and transition shots; if discussing chips, show fabs, wafers, servers, maps, and supply-chain visuals.
    - If no video tool is callable, use available local rendering tools or install/use a portable renderer when permitted. Only fall back to production-ready assets when a finished video file is technically blocked.
 
-7. **Review Before Delivery**
+8. **Review Before Delivery**
    - Read `references/platform-review.md`.
    - Check factual risk, platform risk, retention, story tension, public-affairs framing, copyright risk, and claims that need sourcing.
    - Return a concise review: publishable / revise before publishing / high risk.
@@ -199,6 +205,11 @@ Score each candidate from 1-10:
 - `viral_potential`: has conflict, reversal, ordinary-person relevance, money/power stakes, or “why now” tension.
 - `visual_potential`: can be shown with real images, dynamic scenes, products, maps, factories, streets, screens, or infrastructure.
 - `freshness`: recent and not over-discussed.
+- `second_order_depth`: triggers a bigger hidden consequence beyond the surface event.
+- `supply_chain_tension`: shows contradiction between platform control and manufacturing/component dependence.
+- `regional_replacement_risk`: raises China/Japan/India/Southeast Asia/US/Europe replacement or upgrade pressure.
+- `system_competition_depth`: reveals different national or industrial systems solving the same bottleneck.
+- `story_character_strength`: lets players be written as characters with motives, fear, and bargaining chips.
 
 Select 1-3 strongest topics, then choose one lead topic unless the user asks for a roundup.
 
@@ -263,6 +274,7 @@ Use this exact order:
 
 ## References
 
+- Read `references/topic-selection-logic.md` before selecting topics or when the user asks for candidate topics.
 - Read `references/deep-research.md` before writing topics involving smart glasses, XR, chips, robotics, cars, energy, hardware, supply chains, geopolitics, or finance.
 - Read `references/platform-review.md` before finalizing scripts meant for Douyin, Xiaohongshu, or WeChat Channels.
 - Read `references/video-production.md` when generating video assets or using a video tool.
