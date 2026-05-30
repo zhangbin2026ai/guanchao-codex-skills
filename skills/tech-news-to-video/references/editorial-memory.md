@@ -167,3 +167,70 @@ Before using a phrase like “country,” “company,” “capital,” “platf
 - Whose judgment can it influence?
 
 Use this humanized layer before explaining the technical or financial layer.
+
+## 2026-05-30 Audience Perception And Thinking Revision
+
+The user pointed out that a hard technical topic can be valid, but the script must respect the audience's understanding path.
+
+### Core Correction
+
+Do not write from the author's convenience. Write from the viewer's real-time perception.
+
+When a sentence contains a hard phrase, imagine the audience reaction:
+
+- “这是什么意思？”
+- “这和我有什么关系？”
+- “为什么我要继续听？”
+- “这是不是又要讲概念？”
+
+Then answer that reaction naturally.
+
+Bad:
+
+> 正常人刷到这行字，基本就划走了。
+
+Better:
+
+> 很多人看到这几个字会先愣一下：这到底在说什么？
+
+Then translate:
+
+> 说白了，它问的是：以后 AI 替你办事，谁能证明那条命令是真的？
+
+### Thinking Voice
+
+The user wants a narrator who appears to think, not a model that outputs analysis.
+
+That means:
+
+- briefly fan out from the news to related scenes or patterns
+- connect to a daily analogy
+- show why the analogy matters
+- return to the main topic with a sharper conclusion
+
+The script should feel like someone discovering and explaining a pattern beside the audience.
+
+Avoid:
+
+- linear explanation from concept to concept
+- dismissive lines about audience ignorance
+- polished but lifeless analysis
+- topic selection that is too hard without a translation bridge
+
+### Optimization Direction
+
+The core direction for “观潮” is now:
+
+1. story first, analysis second
+2. audience perception first, author logic second
+3. human desire first, abstract power second
+4. concrete scene first, technical term second
+5. controlled digression first, then return to the hidden game
+6. evidence supports the story, but evidence is not the story
+
+Before expanding any script, the first 60 seconds must prove:
+
+- the viewer can understand it
+- the viewer wants to know the next answer
+- the narrator sounds like a thinking person
+- the topic has a hidden game beyond the surface news
