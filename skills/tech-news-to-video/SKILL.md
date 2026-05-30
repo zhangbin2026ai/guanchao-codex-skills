@@ -274,6 +274,7 @@ Use this exact order:
 
 ## References
 
+- Read `references/editorial-memory.md` before selecting topics or revising the skill. Treat it as persistent user-approved editorial direction.
 - Read `references/topic-selection-logic.md` before selecting topics or when the user asks for candidate topics.
 - Read `references/deep-research.md` before writing topics involving smart glasses, XR, chips, robotics, cars, energy, hardware, supply chains, geopolitics, or finance.
 - Read `references/platform-review.md` before finalizing scripts meant for Douyin, Xiaohongshu, or WeChat Channels.
