@@ -40,6 +40,66 @@ Before drafting, write one sentence for each:
 
 If these cannot be answered, the topic is not ready for a script.
 
+## Audience Perception Loop
+
+Before writing the next sentence, imagine the audience's live reaction to the current sentence.
+
+Ask:
+
+- Will they understand the phrase immediately?
+- Will they feel confused, curious, bored, or resistant?
+- What question just appeared in their head?
+- What sentence would a real storyteller say next to catch that reaction?
+
+Do not insult or distance the audience with lines like:
+
+> 正常人刷到这行字，基本就划走了。
+
+Better:
+
+> 很多人看到这句就懵了：这到底是什么意思？
+
+Then immediately translate the hard phrase into a daily scene, object, or human problem.
+
+Pattern:
+
+1. Say the hard news phrase only if needed.
+2. Admit the audience's confusion in a friendly way.
+3. Translate it into a human scene.
+4. Open the next question.
+
+Example:
+
+> “抗量子通信”这几个字听着像实验室黑话。说白了，它问的是一件很现实的事：以后 AI 替你办事，谁来证明那条命令是真的？
+
+## Thinking Voice
+
+A real storyteller does not march in a straight line from point A to point B. They think aloud, briefly fan out, then pull the audience back.
+
+Use controlled digression:
+
+- connect the news to a familiar scene
+- mention a related industry or old story
+- ask why this pattern has appeared before
+- return with “所以你看，它真正指向的是... ”
+
+Do not wander for decoration. Every digression must return to the central hidden game.
+
+Good rhythm:
+
+1. concrete event
+2. audience confusion
+3. daily analogy
+4. short expansion to a related pattern
+5. return to the news with a sharper meaning
+
+Bad rhythm:
+
+1. hard concept
+2. definition
+3. more concepts
+4. conclusion
+
 ## Narrative Engine
 
 Use this reusable arc. Do not write it as headings in the final script; use it as the hidden skeleton.
@@ -86,6 +146,8 @@ Avoid:
 - abstract nouns without people or objects
 - explaining the conclusion before creating curiosity
 - ending every section with “这才是重点”
+- speaking from above the audience instead of beside them
+- using “大家不懂/正常人划走” in a dismissive way
 
 ## Anti-Pattern Rewrite Rules
 
@@ -129,6 +191,13 @@ Before finalizing, mark the script every 30-45 seconds. Each segment must contai
 - ordinary-person implication
 
 Reject a segment if it only explains.
+
+Also reject a segment if:
+
+- it uses a technical phrase without translating the audience's likely confusion
+- it does not answer “what would the viewer think right now?”
+- it has no thinking movement: no analogy, no controlled digression, no return
+- it sounds like a narrator reading prepared analysis rather than a person discovering a pattern
 
 ## Drafting Workflow
 
