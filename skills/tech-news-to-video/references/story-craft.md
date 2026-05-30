@@ -81,7 +81,7 @@ Use controlled digression:
 - connect the news to a familiar scene
 - mention a related industry or old story
 - ask why this pattern has appeared before
-- return with “所以你看，它真正指向的是... ”
+- return with “所以你看，它真正指向的是...”
 
 Do not wander for decoration. Every digression must return to the central hidden game.
 
@@ -141,13 +141,51 @@ Use:
 Avoid:
 
 - mechanical parallelism such as repeated “有，有，有” or “这是，这是，这是”
+- any three-line same-structure pattern, even if the words are different
 - slogan stacking
 - paragraph after paragraph of short declarative sentences
 - abstract nouns without people or objects
+- platform jargon or management language such as “组织效率优化” unless immediately translated into plain speech
 - explaining the conclusion before creating curiosity
 - ending every section with “这才是重点”
 - speaking from above the audience instead of beside them
 - using “大家不懂/正常人划走” in a dismissive way
+
+## Anti-Parallelism Rule
+
+The user strongly dislikes mechanical parallelism. Do not solve this by simply breaking lines apart. A rewrite must keep the original story tension while removing the repeated structure.
+
+Hard rule:
+
+- If three nearby sentences share the same grammar, rewrite.
+- If two nearby sentences share the same grammar and create an obvious rhythm loop, rewrite.
+- Do not use “你刚...你刚...你刚...”, “有人...有人...有人...”, “这是...这是...这是...”, or similar template ladders.
+
+When removing parallelism, preserve what worked in the earlier draft:
+
+- the strange premise
+- the concrete setting
+- the hidden transaction
+- the audience's next question
+
+Do not replace lively language with stiff terms. “组织效率优化” is worse than “老板说不是裁员，是公司要换一种活法” because the first phrase sounds like a memo and the second sounds like a scene.
+
+Better rewrite pattern:
+
+1. Keep one concrete scene.
+2. Add one human reaction.
+3. Add one small twist.
+4. Move forward.
+
+Example:
+
+Bad:
+
+> 你刚看到一条裁员新闻，它先说这是组织效率优化。你刚看到一条芯片新闻，它先说这是供应链重排。你刚想看评论区，它先摆出三种观点。
+
+Better:
+
+> 你打开一条裁员新闻，本来想看看谁又倒霉了。摘要先跳出来，语气很稳：别急着骂，这事可能是公司撑不住了，也可能是老板在提前换座位。你看，新闻还没开始吵，它已经先把椅子摆好了。
 
 ## Anti-Pattern Rewrite Rules
 
