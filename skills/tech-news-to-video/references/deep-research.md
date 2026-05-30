@@ -53,11 +53,29 @@ For Apple glasses, Vision Pro, Android XR, Meta Ray-Ban, and AI glasses stories,
 
 Make the story vivid by assigning roles:
 
-- Platform company: the king trying to move the gate from phone screen to human senses.
-- Supplier: the silent hand holding the throat of the hardware dream.
-- Capital: the banker pricing control before control is proven.
-- Regulator: the guard watching whether public space becomes a private data mine.
-- User: the person who gets convenience first, then discovers the default judgment is no longer fully theirs.
+- old power figure: wants to keep rule-setting power, entrance power, or interpretation power.
+- challenger: wants to break the old entrance and build a new one.
+- toolmaker: builds the product, chip, model, factory, standard, or platform used as the weapon.
+- gatekeeper: decides who enters an ecosystem, market, standard, supply chain, data layer, or public channel.
+- workshop owner: provides manufacturing depth, process knowledge, parts, hands, and muscles.
+- hidden craftsman: loses visible brand glory but keeps upstream chokepoints.
+- apprentice: receives transferred work but has not yet proven it can build the full ecosystem.
+- capital: the banker pricing control before control is proven.
+- regulator: the guard watching whether a private tool becomes a public risk.
+- user or worker: receives convenience first, then may lose default judgment, privacy, bargaining power, or job security.
+
+Before writing abstract analysis, translate every actor into a human desire:
+
+- money: who wants future rent or tolls?
+- control: who wants to decide another person’s first judgment?
+- security: who is afraid of dependency?
+- vanity/status: who wants to remain the old king?
+- survival: who must upgrade or be replaced?
+- tools: what product, device, standard, chip, factory, or platform is being used as the weapon?
+
+Use countries and companies as characters, but do not fabricate private thoughts. Describe incentives with cautious language such as “像是”, “更像”, “它怕的不是..., 而是...”.
+
+Do not hard-code specific countries or companies into these roles inside the skill. Assign roles dynamically after researching the topic. A company, country, supplier, or platform may change role depending on the story.
 
 Use concrete scenes:
 
