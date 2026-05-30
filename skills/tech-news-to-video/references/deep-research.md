@@ -2,6 +2,8 @@
 
 Use this reference before writing any “观潮” topic where the hidden game depends on supply chains, geopolitics, finance, or platform control.
 
+Also use `news-memory-integration.md` when the topic can connect multiple recent or historical news items. Deep research should not only verify one hypothesis; it should test whether several news events reveal the same hidden rule.
+
 ## Hypothesis Discipline
 
 Start with a testable hypothesis, not a conclusion.
@@ -24,6 +26,23 @@ After browsing, classify the hypothesis:
 - `too early / insufficient evidence`
 
 If evidence is mixed, make the contradiction the story.
+
+## Cross-News Integration
+
+Before drafting, connect the anchor news with 2-5 adjacent news items or comparable cases.
+
+For each related item, ask:
+
+- Does it share the same security obstacle?
+- Does it show the opposite side of the same rule?
+- Does it reveal how another country, company, or capital market reacts to the same technology?
+- Does it turn a product story into infrastructure, national security, financial repricing, or system competition?
+
+Do not list related news as decoration. Extract the shared rule.
+
+Example:
+
+> OpenAI partnering with a local cloud provider, Tesla FSD entering China, and Huawei / Chinese software facing overseas restrictions may all point to one larger rule: software that touches data, roads, maps, enterprise workflows, or compute is now treated as infrastructure and security, not merely as a product.
 
 ## Supply-Chain Map
 
@@ -48,6 +67,38 @@ For Apple glasses, Vision Pro, Android XR, Meta Ray-Ban, and AI glasses stories,
 - Geopolitics: how do cameras, maps, face data, enterprise meetings, and public-space sensing become data-sovereignty issues?
 - Finance: which assets are repriced: platform stocks, display suppliers, optical suppliers, chips, packaging, batteries, local-commerce ads, enterprise subscriptions?
 - Forced followers: which phone, app, search, short-video, local-commerce, and hardware players must follow?
+
+## Security Layer Expansion
+
+When a story contains cloud, AI models, autonomous driving, enterprise software, chips, training data, maps, or cross-border services, check whether the deeper story is actually about security.
+
+Do not stop at the immediate partnership or product launch. Ask:
+
+- Is the obstacle data security, software safety, model control, map/mapping qualification, local deployment, cloud access, or compute access?
+- Does the actor need a local partner because enterprises or regulators need someone accountable nearby?
+- Does the product touch sensitive real-world systems: cars, factories, banks, hospitals, logistics, government-adjacent infrastructure, or enterprise workflows?
+- Is another country using security logic to restrict Chinese software, cars, clouds, chips, models, or compute access abroad?
+- Are the two sides applying different security management logics to similar technologies?
+
+Use comparison only when it clarifies the hidden rule.
+
+Useful comparison path:
+
+1. Start with the concrete news.
+2. Identify the security obstacle.
+3. Compare with Tesla FSD entering China: data localization, mapping, local training, safety review, regulatory accountability.
+4. Compare with Huawei / Chinese software / Chinese AI compute going abroad: foreign security suspicion, export controls, cloud restrictions, procurement barriers, chip and compute access limits.
+5. Return to the core question: who is allowed to carry data, run models, read roads, touch enterprise workflows, or rent compute in another country?
+
+Narrative frame:
+
+> The visible story is a business partnership. The deeper story is that software has stopped being only software. Once software can see roads, read contracts, drive cars, control workflows, or train models, it starts to be managed like infrastructure.
+
+Research carefully before scripting:
+
+- Tesla FSD China status and wording may be disputed. Verify whether the full version is approved, only a supervised/inferior version is available, or approval is still progressing.
+- Confirm data-localization claims, local training center claims, mapping partner / qualification claims, and official or credible reporting.
+- For Huawei or Chinese tech export difficulty, distinguish product restrictions, chip/export controls, cloud compute restrictions, procurement bans, and security-review narratives.
 
 ## Story Method
 
