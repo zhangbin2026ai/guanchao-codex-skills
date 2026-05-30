@@ -94,3 +94,76 @@ When offering 10 candidate topics, each topic should include:
 - why it may become a public debate
 
 Prefer topics that can trigger the user to choose an angle and co-develop the logic before full scripting.
+
+## 2026-05-30 Humanized Power Story Logic
+
+The user approved the humanized narrative direction, but clarified that the skill should store the reusable logic, not fixed company or country mappings.
+
+### Core Correction
+
+Do not describe countries, companies, capital, suppliers, platforms, or policies as flat abstract labels.
+
+Weak:
+
+- “A country wants control.”
+- “A company controls the entrance.”
+- “Finance reprices the asset.”
+
+Better:
+
+- Write every major actor as if it were a person with needs, fear, vanity, money pressure, control desire, insecurity, and fallback plans.
+- Explain finance as people fighting over future money, not as abstract markets.
+- Explain geopolitical control as human control scaled up: who gets to decide what people see, which route they take, which product they trust, which system they depend on.
+
+### Reusable Character Method
+
+For every topic, assign roles dynamically based on evidence. Do not hard-code a specific country or company into a fixed role.
+
+Possible roles:
+
+- old power figure: wants to keep the right to define rules and interpret reality.
+- challenger: wants to break the old gate and build a new entrance.
+- toolmaker: builds the device, platform, chip, model, factory, or standard used by someone else to gain power.
+- gatekeeper: decides who enters the market, ecosystem, standard, platform, supply chain, or data layer.
+- workshop owner: provides the hands, muscles, process knowledge, parts, and manufacturing depth behind the visible product.
+- hidden craftsman: no longer owns the flashy consumer brand, but still holds upstream materials, optics, sensors, tools, equipment, or process chokepoints.
+- apprentice region or company: receives transferred work but must prove it can grow from assembly or imitation into a full ecosystem.
+- money lender / banker: does not care about slogans; it asks who will collect tolls, rent, subscriptions, or transaction fees in the future.
+- regulator / guard: watches whether a private tool becomes a public risk.
+- ordinary person / user: receives convenience first, then may lose some default judgment, privacy, bargaining power, or job security.
+
+Devices, platforms, chips, models, factories, standards, and policies are usually tools or weapons, not always the protagonist.
+
+### Human Need Translation
+
+Translate every abstract layer into a human need:
+
+- finance = money, future rent, toll collection, fear of missing the next tax gate
+- geopolitics = control, security, fear of dependency, fear that someone else interprets reality first
+- supply chain = hands, muscles, tools, craftsmen, throat, fallback route
+- platform = gate, rulebook, default choice, interpreter
+- wearable device = tool, weapon, leash, mirror, private secretary, checkpoint
+- first visual entrance = the first second of a person’s judgment
+
+### Product / Platform Narrative Rule
+
+For any product/platform topic, the story should not be:
+
+> Company X releases product Y, so country/platform Z controls entrance A.
+
+The reusable story should be:
+
+> A player with a human desire wants to use a tool to change another person’s default choice, first judgment, money flow, or dependency. The visible product is only the tool. The real story is who holds the tool, who builds the tool, who pays for the tool, who depends on the tool, and who loses freedom once the tool becomes normal.
+
+### Writing Standard
+
+Before using a phrase like “country,” “company,” “capital,” “platform,” “policy,” or “supply chain,” ask:
+
+- What person-like desire does this actor have?
+- What is it afraid of losing?
+- What tool does it hold?
+- Whose throat can it touch?
+- Whose money can it collect?
+- Whose judgment can it influence?
+
+Use this humanized layer before explaining the technical or financial layer.
