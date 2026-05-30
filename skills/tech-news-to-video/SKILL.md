@@ -1,6 +1,6 @@
 ---
 name: tech-news-to-video
-description: Turn current high-heat frontier technology news into a finished downloadable Chinese vertical video for the “观潮” column. Use when the user says “开始观潮”, “开启观潮”, or asks Codex to search recent tech news, identify multi-source hot topics, explain technology through power migration, geopolitics, finance, future development, and “破局” logic, write long oral scripts, produce dynamic video, or review content for Douyin, Xiaohongshu, and WeChat Channels publishing risk.
+description: Turn current high-heat frontier technology news into a finished downloadable Chinese vertical video for the “观潮” column. Use when the user says “开始观潮”, “开启观潮”, or asks Codex to search recent tech news, verify deep supply-chain/geopolitical/financial hypotheses, identify multi-source hot topics, explain technology through power migration and company-as-character conflict, write vivid long oral scripts, produce dynamic video, or review content for Douyin, Xiaohongshu, and WeChat Channels publishing risk.
 ---
 
 # Tech News To Video
@@ -23,6 +23,8 @@ Use a strong entertainment-commentary tone: short sentences, strong hooks, suspe
 
 Do not imitate a living creator’s exact personal style or clone a real person's voice. For narration, prefer a natural mature male Chinese voice that sounds calm, sharp, story-driven, and slightly pressuring rather than robotic.
 
+Make the content feel like a story of competing players, not a lecture. Treat companies, countries, capital, suppliers, regulators, and users as characters with desires, fears, weaknesses, bargaining chips, and hidden constraints. Give the audience a sense of “someone is moving a piece on the board” before explaining abstract logic.
+
 ## Workflow
 
 1. **Search and Rank News**
@@ -32,24 +34,37 @@ Do not imitate a living creator’s exact personal style or clone a real person'
    - Prefer topics with multi-site repetition, technology-industry importance, strong visual potential, power-migration depth, and video virality.
    - Keep links and dates for factual claims.
 
-2. **Find the Real Game**
+2. **Verify the Deep Hypothesis**
+   - Before writing, form 1-3 non-obvious hypotheses, then browse specifically to verify or falsify them.
+   - For hardware, chips, smart glasses, robotics, cars, energy, and XR topics, research supply chain first: key suppliers, countries/regions, chokepoints, assembly, critical components, recent shifts, and which parts are controlled by China, Taiwan, Japan, South Korea, the US, Europe, India, Vietnam, or Mexico.
+   - Do not turn a guess into a conclusion. If evidence is mixed, write the tension as the story. Example: do not say “Apple glasses are already Americanized” unless sources prove it. Say “Apple wants an American platform entrance, but the hardware body may still depend on Asian supply chains” when that is what evidence supports.
+   - Look for the contradiction that ordinary commentary misses: platform ambition vs supply-chain dependence, consumer product vs sovereign data, hardware sales vs financial repricing, convenience vs control.
+
+3. **Find the Real Game**
    - Do not stop at “what happened.”
    - Identify which human/industrial/social power is being moved.
    - Connect that power shift to geopolitics, finance, and the future path of the industry.
    - Ask: who controls the entrance, who collects tolls, who loses default power, who becomes dependent, who needs to follow, and what is the破局 path?
 
-3. **Write the Video Package**
+4. **Build the Story Engine**
+   - Personify major players without fabricating quotes or inner thoughts. Use “像是”, “更像”, “它怕的不是..., 而是...” to frame incentives.
+   - Give every major actor a role: the old king, the challenger, the supplier holding the throat, the banker pricing the future, the regulator watching the gate, the user being pulled into the board.
+   - Write in scenes: board opening, first move, counter-move, hidden supply line, money table, geopolitical table, trapped player,破局.
+   - Use concrete objects before abstract concepts: factory, lens, chip, battery, map, camera, meeting room, store shelf, data center, contract, stock chart.
+   - Avoid cold explanatory paragraphs. Every 2-4 paragraphs should contain conflict, reversal, a vivid image, or a question the audience wants answered.
+
+5. **Write the Video Package**
    - Produce one main 15-minute oral script by default, about 4,500-6,000 Chinese characters.
-   - Also output: three-platform titles, 3-second hook, 60-second cutdown script, storyboard, visual prompts, subtitle script, cover titles, comment prompt, and platform review.
+   - Also output: three-platform titles, 3-second hook, storyboard, visual prompts, subtitle script, cover titles, comment prompt, and platform review.
    - Keep the main content platform-neutral. Platform adaptation belongs mainly in titles, cover wording, and release notes.
 
-4. **Make the Finished Video**
+6. **Make the Finished Video**
    - Prefer existing video tools/plugins in the environment, especially HyperFrames by HeyGen if available.
    - The finished video must include natural-sounding Chinese narration, complete bottom subtitles inside platform-safe margins, dynamic visual material, chapter rhythm, and transitions.
    - Avoid static PPT-like videos. Use relevant dynamic images/video-style scenes for the topic: for example, if discussing AITO/Wenjie cars, show car imagery, automotive production, roads, dashboards, factories, and transition shots; if discussing chips, show fabs, wafers, servers, maps, and supply-chain visuals.
    - If no video tool is callable, use available local rendering tools or install/use a portable renderer when permitted. Only fall back to production-ready assets when a finished video file is technically blocked.
 
-5. **Review Before Delivery**
+7. **Review Before Delivery**
    - Read `references/platform-review.md`.
    - Check factual risk, platform risk, retention, story tension, public-affairs framing, copyright risk, and claims that need sourcing.
    - Return a concise review: publishable / revise before publishing / high risk.
@@ -168,6 +183,9 @@ For every candidate topic, answer these before writing:
 8. What will likely happen in 1 year, 3 years, and 5 years?
 9. Who is trapped or forced to follow?
 10. What is the破局 path for ordinary people, small companies, or traditional players?
+11. What is the deepest testable hypothesis, and what sources support or weaken it?
+12. What is the supply-chain map: key suppliers, countries, chokepoints, and recent relocation or diversification signals?
+13. Which actor can be written as the story protagonist, antagonist, hidden banker, gatekeeper, or trapped side?
 
 ## Ranking Model
 
@@ -188,19 +206,21 @@ Select 1-3 strongest topics, then choose one lead topic unless the user asks for
 
 Use this structure for the main script:
 
-1. **Cold open**: one contrarian hook in 1-3 sentences.
-2. **Surface event**: what happened, from which sources, and why it is being discussed now.
-3. **First reversal**: why this is not really about the product or company.
-4. **Power migration**: which power is moving and who is taking it.
-5. **The board**: companies, countries, capital, policies, supply chains, data, energy, labor, users.
-6. **The toll gate**: who can collect fees, traffic, data, subscriptions, transaction cuts, or ecosystem tax.
-7. **Geopolitical layer**: why countries, regulators, or industrial policy care.
-8. **Financial layer**: what assets, stocks, business models, or valuation anchors are being repriced.
-9. **Future path**: 1-year, 3-year, 5-year likely evolution.
-10. **The trapped side**: who must follow, who loses optionality, who becomes dependent.
-11. **破局**: how ordinary people, small companies, or traditional players can respond.
-12. **Contrarian conclusion**: one memorable, defensible takeaway.
-13. **Comment bait**: a debate question.
+1. **Cold open**: one dramatic contradiction in 1-3 sentences.
+2. **Characters enter**: introduce the companies/countries/capital/suppliers as players with incentives.
+3. **Surface event**: what happened, from which sources, and why it is being discussed now.
+4. **First reversal**: why this is not really about the product or company.
+5. **Hidden supply line**: supplier map, regional dependence, chokepoints, and whether the “globalization vs localization” story is true.
+6. **Power migration**: which power is moving and who is taking it.
+7. **The board**: companies, countries, capital, policies, supply chains, data, energy, labor, users.
+8. **The toll gate**: who can collect fees, traffic, data, subscriptions, transaction cuts, or ecosystem tax.
+9. **Geopolitical layer**: why countries, regulators, or industrial policy care.
+10. **Financial layer**: what assets, stocks, business models, or valuation anchors are being repriced.
+11. **Future path**: 1-year, 3-year, 5-year likely evolution.
+12. **The trapped side**: who must follow, who loses optionality, who becomes dependent.
+13. **破局**: how ordinary people, small companies, or traditional players can respond.
+14. **Contrarian conclusion**: one memorable, defensible takeaway.
+15. **Comment bait**: a debate question.
 
 ## Video Quality Bar
 
@@ -211,6 +231,7 @@ Every finished MP4 should satisfy:
 - **Visuals**: dynamic, topic-specific visuals with motion, transitions, and relevant imagery; avoid slide-only/PPT-only delivery.
 - **Style**: news-investigation feel + commercial-war cinema + chessboard/game framing. Do not use cyberpunk as the default style.
 - **Content**: do not merely read news. Build a “局”: surface event, hidden move, trapped side, beneficiary, toll gate, geopolitical anxiety, financial repricing, future path, and破局.
+- **Story**: avoid cold lectures. Use company-as-character conflict, scene changes, reversals, supply-chain clues, and “who is afraid of whom” tension.
 - **Platform package**: include three platform titles, platform review, and a final downloadable `.mp4`.
 
 ## Output Format
@@ -231,17 +252,17 @@ Use this exact order:
    - 视频号
 10. `开头3秒钩子`
 11. `15分钟口播稿`
-12. `60秒口播稿`
-13. `分镜脚本`
-14. `画面提示词`
-15. `字幕稿`
-16. `封面标题`
-17. `评论区引导语`
-18. `平台审核`
-19. `成品视频文件`
-20. `需要用户确认的制作项`
+12. `分镜脚本`
+13. `画面提示词`
+14. `字幕稿`
+15. `封面标题`
+16. `评论区引导语`
+17. `平台审核`
+18. `成品视频文件`
+19. `需要用户确认的制作项`
 
 ## References
 
+- Read `references/deep-research.md` before writing topics involving smart glasses, XR, chips, robotics, cars, energy, hardware, supply chains, geopolitics, or finance.
 - Read `references/platform-review.md` before finalizing scripts meant for Douyin, Xiaohongshu, or WeChat Channels.
 - Read `references/video-production.md` when generating video assets or using a video tool.
