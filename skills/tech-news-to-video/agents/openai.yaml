@@ -1,0 +1,7 @@
+interface:
+  display_name: "观潮科技成局视频"
+  short_description: "把热门科技新闻拆成长视频脚本与审核方案"
+  default_prompt: "Use $tech-news-to-video to search current frontier tech news and turn the best topic into a 15-minute 观潮 video package with platform review."
+
+policy:
+  allow_implicit_invocation: true
