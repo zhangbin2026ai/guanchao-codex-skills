@@ -54,6 +54,7 @@ Make the content feel like a story of competing players, not a lecture. Treat co
    - Ask: who controls the entrance, who collects tolls, who loses default power, who becomes dependent, who needs to follow, and what is the破局 path?
 
 5. **Build the Story Engine**
+   - If the user provides reference creator videos, read `references/viral-reference-deconstruction.md`. Extract narrative mechanics only; do not copy wording, punchlines, personal style, or paragraph order.
    - Personify major players without fabricating quotes or inner thoughts. Use “像是”, “更像”, “它怕的不是..., 而是...” to frame incentives.
    - Give every major actor a role: the old king, the challenger, the supplier holding the throat, the banker pricing the future, the regulator watching the gate, the user being pulled into the board.
    - Write in scenes: board opening, first move, counter-move, hidden supply line, money table, geopolitical table, trapped player,破局.
@@ -278,6 +279,7 @@ Use this exact order:
 - Read `references/editorial-memory.md` before selecting topics or revising the skill. Treat it as persistent user-approved editorial direction.
 - Read `references/news-memory-integration.md` before expanding any topic beyond the opening. Use it to connect the anchor news with related news and extract the shared hidden rule.
 - Read `references/story-craft.md` before writing any script. If the first 60 seconds do not pass the story and retention audit, rewrite before continuing.
+- Read `references/viral-reference-deconstruction.md` when the user provides high-performing reference videos or asks to improve expression by learning from creator examples.
 - Read `references/topic-selection-logic.md` before selecting topics or when the user asks for candidate topics.
 - Read `references/deep-research.md` before writing topics involving smart glasses, XR, chips, robotics, cars, energy, hardware, supply chains, geopolitics, or finance.
 - Read `references/platform-review.md` before finalizing scripts meant for Douyin, Xiaohongshu, or WeChat Channels.
